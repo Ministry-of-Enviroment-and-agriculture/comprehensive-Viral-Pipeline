@@ -1,5 +1,5 @@
 # VirusConsensusPipe
-## An robust pipeline to build consensus genome for virus. A case study on camelpox virus genomes
+## A robust pipeline to build consensus genome for virus. A case study on camelpox virus genomes
 
 VirusConsensusPipe is a open-source nextflow based pipeline that provides assembly to variant identification to consensus of different viruses. VirusConsensusPipe consists of several steps: 
 
