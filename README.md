@@ -1,3 +1,7 @@
+[![bio.tools](https://img.shields.io/badge/bio-tools-blue.svg)](https://github.com/suheelyousuf/VirusConsensusPipe)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+
 # VirusConsensusPipe
 ## A robust pipeline to build consensus genome for virus. A case study on camelpox virus genomes
 
