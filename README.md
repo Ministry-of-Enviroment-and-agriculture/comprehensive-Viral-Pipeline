@@ -27,5 +27,3 @@ VirusConsensusPipe is a open-source nextflow based pipeline that provides assemb
 
 All the steps were consolidated into one command line offering efficient and fast results. To facilitate usage, the pipeline was compiled into docker containers to avoid problems with incompatibility and installation of the tools. VirusConsensusPipe was validated using 17 camelpox datasets that were sequenced in our lab
 
-
-## This work is funded by Ministry of Environment, Water and Agriculture of Saudi Arabia
